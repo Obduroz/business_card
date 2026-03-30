@@ -8,4 +8,4 @@
 - GitHub Pages
 
 ## Как запустить
-Сайт доступен по ссылке: https://твой-username.github.io
+Сайт доступен по ссылке: https://obduroz.github.io/business_card/
